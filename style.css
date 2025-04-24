@@ -1,0 +1,49 @@
+/* . punto llamo clase */
+/* # numeral llamo ID */
+/* * hago referencia a todo el cuerpo de la pagina */
+
+.pes {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+#unicoh2 {
+    color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+#unicoh2:hover {
+color: brown;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+
+/* .container {
+    background: lightcoral;
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo {
+    background: lightseagreen;
+    width: 40%;
+}
+#unicoh2 {
+    background: lightgreen;
+    width: 40%;
+} */
+
+/* .cards {
+    flex-wrap: wrap;
+} */
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    padding: 50px;
+}
+
+.card{}
