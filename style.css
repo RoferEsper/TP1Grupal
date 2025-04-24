@@ -2,6 +2,15 @@
 /* # numeral llamo ID */
 /* * hago referencia a todo el cuerpo de la pagina */
 
+
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    border-radius: 20px;
+}
+
 .pes {
     color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
